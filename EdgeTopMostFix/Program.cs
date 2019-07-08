@@ -69,7 +69,7 @@ namespace EdgeTopMostFix
                         var stringBuilder = new StringBuilder(capacity);
                         GetWindowText(new HandleRef(thatObject, handle), stringBuilder, stringBuilder.Capacity);
                         var text = stringBuilder.ToString();
-                        if (!string.IsNullOrEmpty(text))
+                        if (text.EndsWith("Microsoft Edge"))
                         {
                             try
                             {
