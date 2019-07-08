@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgeTopMostFix", "EdgeTopMostFix\EdgeTopMostFix.csproj", "{F2B9A14B-47F9-4366-9EE8-66113F53E5F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2B9A14B-47F9-4366-9EE8-66113F53E5F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B9A14B-47F9-4366-9EE8-66113F53E5F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B9A14B-47F9-4366-9EE8-66113F53E5F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B9A14B-47F9-4366-9EE8-66113F53E5F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {198E00F7-DF73-4815-A453-1DB319EE519B}
+	EndGlobalSection
+EndGlobal
